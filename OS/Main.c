@@ -48,6 +48,11 @@ processes() {
 
 }
 
+
+int dummyMethod(){
+	return 0;
+}
+
 scheduler() {
 
 }
