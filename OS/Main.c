@@ -4,8 +4,7 @@
  *  Created on: Feb 11, 2014
  *      Author: Brandon M Martin
  *      Author brandon sucks.
- *      something.
- *      akjsdhflakj
+ *     
  */
 
 
@@ -33,13 +32,14 @@ main() {
 	printf("\n<Insert Interrupt>");
 	//TODO insert what interrupted
 
-	cpu();
+
 }
 
 
 cpu() {
 
 	printf("cpu");
+	//something test
 
 }
 
